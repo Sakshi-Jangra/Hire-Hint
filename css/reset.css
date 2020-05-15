@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  /* font-size: 14px; */
+}
+
+footer,
+header {
+  display: block;
+}
+
+body {
+  line-height: 1.3em;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+table tr td {
+  border-collapse: collapse;
+}
